@@ -1,6 +1,6 @@
 #!/bin/bash
 
-STATUS=true
+STATUS=false
 
 for ((i=1; i<=1000; i++)); do
     echo $i
